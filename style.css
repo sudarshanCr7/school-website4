@@ -1,0 +1,38 @@
+.travel_maindiv{
+    border: 2px solid lightgrey;
+}
+.travel_maindiv img{
+    width:100%;
+    height: 500px;
+}
+.travel_maindiv h5 ,.travel_maindiv p{
+    margin: 20px;
+}
+body{
+    text-align: center;
+}
+.movie_head{
+    font-size: 20px;
+    padding:6px 22px ;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+.movie_head i{
+    float: right;
+}
+.movie_text span{
+    color: gold;}
+
+.movie_text img{
+    width:100%;
+}
+.new{
+    margin-bottom: 20px;
+}
+#contacts iframe{
+width: 100%;
+}
+.my_nav_bar{
+    position: fixed;
+    width: 100%;
+}
